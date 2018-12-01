@@ -8,7 +8,6 @@ body{
   display: flex;
   justify-content: space-around;
   background-color: #ffffff;
-
   max-width: 1550px;
 }
 
@@ -39,7 +38,7 @@ a {
 }
 
 
-.first-main-bg{
+.block1{
   background-image: url("../img/grad.png"), url("../img/man.png");
   height: 780px;
   display: flex;
@@ -80,7 +79,7 @@ a {
   margin-bottom: 25px;
 }
 
-.bg-white2{
+.block2{
   background-color: #ffffff;
 }
 
@@ -127,7 +126,6 @@ a {
   color:#111111;
   font-size: 25px;
   margin-top: -5px;
-
 }
 
 .bg-black{
@@ -364,3 +362,28 @@ height: 50px;
   font-family: "Open Sans", Arial sans-serif;
   font-size: 16px;
 }
+
+.nomer{
+  position: absolute;
+  margin-left: 80px;
+}
+
+.namtext{
+  position: relative;
+  color: #111111;
+  font-family: "Playfair Display", Arial sans-serif;
+  font-size: 31px;
+  margin-left: 90px;
+  padding-top: 10px;
+}
+
+.text-p17{
+  position: relative;
+  color: #666666;
+  font-family: "Playfair Display", Arial sans-serif;
+  font-size: 21px;
+  margin-left: 90px;
+  padding-top: 10px;
+}
+
+
